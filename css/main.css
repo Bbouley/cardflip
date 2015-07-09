@@ -2,6 +2,7 @@
 #portfolio .portfolio-item .primary,
 #portfolio .portfolio-item .secondary{
   position: absolute;
+  transition: all 1s ease;
 }
 
 #portfolio .portfolio-item .secondary{
