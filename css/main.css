@@ -1,5 +1,6 @@
 /* add your styles here */
-#portfolio .portfolio-item .primary,
+
+/*#portfolio .portfolio-item .primary,
 #portfolio .portfolio-item .secondary{
   position: absolute;
   transition: all 1s ease;
@@ -15,4 +16,19 @@
 
 #portfolio .portfolio-item .primary:hover{
   opacity: 0;
+}*/
+
+#portfolio .portfolio-item .primary,
+#portfolio .portfolio-item .secondary{
+  position: absolute;
+}
+
+#portfolio .portfolio-item .secondary:hover{
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+
+#portfolio .portfolio-item .primary:hover{
+  -webkit-transform: rotateY(0);
+  transform: rotateY(0);
 }
