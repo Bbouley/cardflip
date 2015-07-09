@@ -1,7 +1,6 @@
 #portfolio .portfolio-item .primary,
 #portfolio .portfolio-item .secondary{
   position: absolute;
-  backface-visibility: hidden;
   transition: all 1s ease;
   }
 
