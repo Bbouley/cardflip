@@ -25,7 +25,6 @@ body {
 
 #portfolio .portfolio-item .primary,
 #portfolio .portfolio-item .secondary {
-	position: absolute;
 	display: block;
 	width: 200px;
 	height: 200px;
@@ -40,7 +39,6 @@ body {
 	padding: 20px;
 	width: 160px;
 	height: 160px;
-	opacity: 0;
 }
 
 #portfolio .portfolio-item .secondary h2 {

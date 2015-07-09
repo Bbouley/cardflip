@@ -1,1 +1,9 @@
 /* add your styles here */
+#portfolio .portfolio-item .primary,
+#portfolio .portfolio-item .secondary{
+  position: absolute;
+}
+
+#portfolio .portfolio-item .secondary{
+  opacity: 0;
+}
