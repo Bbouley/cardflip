@@ -4,7 +4,7 @@
   transition: all 1s ease;
   }
 
-  #portfolio .portfolio-item:hover .primary{
+#portfolio .portfolio-item:hover .primary{
     -webkit-transform: rotateY(-180deg);
     transform: rotateY(-180deg);
   }
