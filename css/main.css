@@ -7,3 +7,11 @@
 #portfolio .portfolio-item .secondary{
   opacity: 0;
 }
+
+#portfolio .portfolio-item .secondary:hover{
+  opacity: 1;
+}
+
+#portfolio .portfolio-item .primary:hover{
+  opacity: 0;
+}
